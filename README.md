@@ -46,6 +46,6 @@
 **We Using Visual Studio Code** -
 
 ```
-git clone https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard
+https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard
 ```
 ----
