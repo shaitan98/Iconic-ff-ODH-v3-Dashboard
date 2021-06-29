@@ -16,7 +16,7 @@
 
 ## 🚀 ***Installation***
 
-***1. First Open Any Browser Like a :- `(Chrome , Fire Fox , Internet Browser & Microsoft Edge And Etc...)`***
+***1. First Open Any Browser Like a :- `(Chrome , Fire Fox , Microsoft Edge & Etc...)`***
 
 ***2.***
 
