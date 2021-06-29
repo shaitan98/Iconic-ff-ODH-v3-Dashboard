@@ -3,7 +3,7 @@
 # 🤖 Iconic ff v3.0.1 ODH Advance v3 Dashboard
 
 
-> Iconic-ff ODH v3 Dashboard (More Advance And More powerfull With Most amazing New Features ) ///
+> Iconic-ff ODH v3 Dashboard ( More Advance And More powerfull With Most amazing New Features )
 .
 A BigTool Kit Of Spamming/Raiding/Token Mangement Tools For Discord built with Node.js Command Handler from [Node.js Guide](https://nodejs.org/en/docs/guides/)
 
