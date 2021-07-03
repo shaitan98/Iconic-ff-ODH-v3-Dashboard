@@ -26,14 +26,28 @@
 
 ***3. After extrating You will be able to use the [ODH Advance V3 Dashboard](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
 
-> ***To Claim Your Passoword You Have to Dm The Owner Of [ODH Advance V3 DASBOARD](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
+***To Claim Your Passoword You Have to Dm The Owner Of [ODH Advance V3 DASBOARD](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
 
 <img src="https://user-images.githubusercontent.com/77638593/124344054-ddcf1400-dbed-11eb-841f-b909a23aa844.jpg" width="380" height="390" />
 
 ----
 
-## 🏁 Starting
+## 🏁 ***How To Use It***
 
+***After Extracting You Will Get A Folder Open It And Again You Get Two Main Folder named ----***
+> ***1 - Backend***
+
+> ***2 -Frontend***
+
+***Some Steps To How To Use IT ----***
+
+***1. Open The Backend Folder - And in The  [Token.txt]() file and Put all the tokens here & Save the [Token.txt] file  then close it***
+
+***2. ***
+
+***3. ***
+
+***4. ***
 
 ----
 
