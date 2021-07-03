@@ -20,7 +20,7 @@
 
 ***Some Steps TO Download IT is ----***
 
-***1.***
+***1. After Going On A website given You At Right Corner You Will see the Release Option , Go to That Option And Download The Latest Version Of Dashboard (We WIll Provide Re-Direct Link) Click [Here]()***
 
 ***2.*** 
 
