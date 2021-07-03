@@ -26,7 +26,7 @@
 
 ***3. After extrating You will be able to use the [ODH Advance V3 Dashboard](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
 
-***To Claim Your Passoword You Have to Dm The Owner Of [ODH Advance V3 DASBOARD](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
+***To Claim Your Passoword You Have to Dm The Owner Of [ODH Advance V3 DASHBOARD](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
 
 <img src="https://user-images.githubusercontent.com/77638593/124344054-ddcf1400-dbed-11eb-841f-b909a23aa844.jpg" width="380" height="390" />
 
@@ -41,13 +41,20 @@
 
 ***Some Steps To How To Use IT ----***
 
-***1. Open The Backend Folder - And in The  [Token.txt]() file and Put all the tokens here & Save the [Token.txt] file  then close it***
+**`Backend ----`**
 
-***2. ***
+***1. Open The Backend Folder - And in The  [Token.txt](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboar) file and Put all the tokens here & Save the [Token.txt](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboar) file  then close it***
 
-***3. ***
+***2. In the Same Folder Backend Run The File - [Iconic ff - ODH v3.0.1.Exe](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboar) ( Dont Close This Just Minimize it )***
 
-***4. ***
+**`Frontend ----`**
+
+> ***After Doing This Thing You Need To Goo To The Dashboard Which You will Get In The Frontend Folder***
+
+***3. Open Folder you will get a [Dashboard.html](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboar) file  Open It in any browser...
+`I.g- Chrome, Opera, Fire Fox, Microsoft Edge & Etc...`***
+
+***Enjoy, You Can Able To Use [ODH - Advance V3 Dashboard](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboar)***
 
 ----
 
