@@ -22,7 +22,7 @@
 
 ***1. After Going On A website given You At Right Corner You Will see the Release Option , Go to That Option And Download The Latest Version Of Dashboard (We WIll Provide Re-Direct Link) Click [Here](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard/releases)***
 
-***2. After Download The Source Code You Have To Exctract The File And For Extarting Time The File will need a password but the password Will be In This [Readme.md](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard/blob/main/README.md) file So Make Sure to Read Carefully*** 
+***2. After Download The Source Code You Have To Extract The File And For Extracting Time The File will need a password but the password Will be In This [Readme.md](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard/blob/main/README.md) file So Make Sure to Read Carefully*** 
 
 ***3. After extrating You will be able to use the [ODH Advance V3 Dashboard](https://github.com/Itz-Iconic-ff-31/Iconic-ff-ODH-v3-Dashboard)***
 
